@@ -1,5 +1,6 @@
 # 2023SP-MAT 171-SSTF1: Precalculus Algebra
 
+#
 # January 9th -15th
 - Orientation to the Course
 - Take Mandatory Course Enrollment Activity and complete Syllabus Acknowledgment in LMS.
