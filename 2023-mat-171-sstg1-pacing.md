@@ -1,4 +1,4 @@
-# <div align="center">2023SP-MAT 171-SSTF1: Precalculus Algebra </br> Tentative Course Calendar\*</div>
+# <div align="center"> 2023SP-MAT 171-SSTF1: Precalculus Algebra <br> Tentative Course Calendar\* </div>
 
 # January 9th -15th
 - Orientation to the Course
@@ -11,7 +11,7 @@
 - Work on MyMathLab for this week's sections.
 
 # January 16th – 22th
-- Monday, January 16th – Martin Luther King Jr. Holiday | **No Classes** | College Closed
+- Monday, January 16th – Martin Luther King Jr. Holiday \| **No Classes** \| College Closed
 - Thursday, January 19st – Last day to receive 75% refund for 16-week session.
 - Watch video lessons for
   - Sections 2.3: Properties of Functions
@@ -60,7 +60,7 @@
   - Section 4.4: Complex Zeros; Fundamental Theorem of Algebra
 
 # March 6th – 10th
-- Monday, March 6th – Friday, March 10th (Spring Break) | No Classes | Campus Open
+- Monday, March 6th – Friday, March 10th (Spring Break) \| No Classes \| Campus Open
 
 # March 13th – 19th
 - Watch video lessons for
@@ -105,7 +105,7 @@
 - Unit 5 Test will be given this week.
 
 # May 1th – May 8nd
-- Monday, May 1st, 2023 | Last Day of Classes
+- Monday, May 1st, 2023 \| Last Day of Classes
 - May 2nd – May 8th Final Exams will be given on campus in accordance with the Final Exam Schedule.
 
 # May 9th
