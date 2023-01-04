@@ -1,5 +1,5 @@
 # 2023SP-MAT 171-SSTF1: Precalculus Algebra
-# Tentative Course Calendar\* 
+## Tentative Course Calendar\* 
 
 # January 9th -15th
 - Orientation to the Course
