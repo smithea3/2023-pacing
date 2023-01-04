@@ -3,3 +3,6 @@ description: Tentative Pacing Guide
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+include:
+  - 2023-mat-171-sstg1-pacing.md
+  - 2023-sp-mat-272-ssb1.md
