@@ -1,6 +1,8 @@
-# <div align="center"> 2023SP-MAT 171-SSTF1: Precalculus Algebra <br> Tentative Course Calendar\* </div>
+# <div align="center"> 2023SP-MAT 171-SSTF1: Precalculus Algebra
+  
+# <div align="center"> Tentative Course Calendar\* </div>
 
-# January 9th -15th
+## January 9th -15th
 - Orientation to the Course
 - Take Mandatory Course Enrollment Activity and complete Syllabus Acknowledgment in LMS.
 - January 9th – January 11th: Drop/Add
@@ -10,7 +12,7 @@
   - Section 2.2: Graph of a Function
 - Work on MyMathLab for this week's sections.
 
-# January 16th – 22th
+## January 16th – 22th
 - Monday, January 16th – Martin Luther King Jr. Holiday \| **No Classes** \| College Closed
 - Thursday, January 19st – Last day to receive 75% refund for 16-week session.
 - Watch video lessons for
