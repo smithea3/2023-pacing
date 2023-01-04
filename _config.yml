@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - 2023-mat-171-sstg1-pacing.md
