@@ -1,4 +1,8 @@
-# 2023SP-MAT 171-SSTF1: Precalculus Algebra
+---
+title: "2023SP-MAT 171-SSTF1: Precalculus Algebra"
+description: "Tentative Pacing Guide"
+filename: 2023-mat-171-sst1f-pacing.md
+--- 
 
 # January 9th -15th
 - Orientation to the Course
