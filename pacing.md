@@ -1,0 +1,114 @@
+# <div align="center">2023SP-MAT 171-SSTF1: Precalculus Algebra </br> Tentative Course Calendar\*</div>
+
+# January 9th -15th
+- Orientation to the Course
+- Take Mandatory Course Enrollment Activity and complete Syllabus Acknowledgment in LMS.
+- January 9th – January 11th: Drop/Add
+- Watch video lessons for
+  - Section A.10.4: Radical Equations,
+  - Section 2.1: Functions,
+  - Section 2.2: Graph of a Function
+- Work on MyMathLab for this week's sections.
+
+# January 16th – 22th
+- Monday, January 16th – Martin Luther King Jr. Holiday | **No Classes** | College Closed
+- Thursday, January 19st – Last day to receive 75% refund for 16-week session.
+- Watch video lessons for
+  - Sections 2.3: Properties of Functions
+  - Section 2.4: Library of Functions
+- Work on MyMathLab for this week's sections.
+
+# January 23rd – 29th
+- Watch video lessons for
+  - Section 2.5: Graphing Techniques – Transformations
+- All MyMathLab assignments for Unit 1 will be due this week.
+- Unit 1 Test
+- Watch video lessons for Section 1.5: Lines (Start of Unit 2)
+
+# January 30th – February 5rd
+- Watch video lessons for
+  - Section 3.1: Properties of Linear Functions and Linear Models
+  - Section 3.2: Building Linear Models from Data
+  - Section 11.1: Systems of Linear Equations – Substitution and Elimination
+  - Section 11.2: Systems of Linear Equations: RREF
+  - Section 11.5: Partial Fraction Decomposition
+- Work on MyMathLab for this week's sections.
+
+# February 6th – February 12th
+- Watch video lessons for
+  - Section 11.2: Systems of Linear Equations: RREF
+  - Section 11.5: Partial Fraction Decomposition
+- Work on MyMathLab for this week's sections.
+
+# February 13th – 17th
+- Unit 2 Test will be given this week.
+- Watch video lessons for
+  - Section 3.3: Quadratic Functions and Their Properties (Start of Unit 3)
+  - Section 3.4: Building Quadratic Models from Verbal Descriptions
+- Work on MyMathLab for this week's sections.
+
+# February 20th – 26th
+- Watch video lessons for
+  - Section 3.5: Inequalities Involving Quadratics
+  - Section 4.1: Polynomial Functions
+  - Section 4.2: The Graph of a Polynomial Function; Models
+- Work on MyMathLab for this week's sections.
+
+# February 27th – March 3rd
+- Watch video lessons for
+  - Section 4.3: The Real Zeros of a Polynomial Function
+  - Section 4.4: Complex Zeros; Fundamental Theorem of Algebra
+
+# March 6th – 10th
+- Monday, March 6th – Friday, March 10th (Spring Break) | No Classes | Campus Open
+
+# March 13th – 19th
+- Watch video lessons for
+  - Section 4.7A: Polynomial Inequalities
+- Unit 3 Test will be given this week.
+- Review rational expressions – Adding/Subtracting/Multiplying/Dividing Rational Expressions and Complex Fractions (Start of Unit 4)
+
+# March 20th – 26st
+- Watch video lessons for
+  - Section A.6.2: Solving Rational Equations
+  - Section 4.5: Properties of Rational Functions
+- Work on MyMathLab for this week's sections.
+
+# March 27nd – 31th
+- Watch video lessons for
+  - Section 4.6: The Graph of a Rational Function
+  - Section 4.7B: Rational Inequalities
+- Unit 4 Test will be given this week.
+
+# April 3rd – April 7th
+- Watch video lessons
+  - Section 5.1: Composite Functions (Start of Unit 5)
+  - Section 5.2: One-to-One Functions; Inverse Functions
+- Work on MyMathLab for this week's sections.
+
+# April 10th – 16th
+- Watch video lessons
+  - Section 5.3: Exponential Functions
+  - Section 5.4: Logarithmic Functions
+
+# April 17th – 23st
+- Monday, April 10th – Last day to withdraw from 16-week session to ensure a grade of "W"
+- Watch video lessons for
+  - Section 5.5: Properties of Logarithms
+  - Section 5.6: Logarithmic and Exponential Equations
+- Work on work on MyMathLab for this week's sections.
+
+# April 24th – 30th
+- Watch video lessons
+  - Section 5.7: Exponential Models
+  - Section 5.8: Logarithmic Models
+- Unit 5 Test will be given this week.
+
+# May 1th – May 8nd
+- Monday, May 1st, 2023 | Last Day of Classes
+- May 2nd – May 8th Final Exams will be given on campus in accordance with the Final Exam Schedule.
+
+# May 9th
+- All grades are due by 3 p.m.
+</br></br>
+_<div align="center">Calendar dates are subject to change. Changes to the dates in this calendar as well as Quiz/Lab assignments and their due dates will be announced weekly in the LMS.</div>_
