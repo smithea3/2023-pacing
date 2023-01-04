@@ -111,6 +111,6 @@
 
 # May 9th
 - All grades are due by 3 p.m.
-<br></br>
+<br><br>
 
 _*Calendar dates are subject to change. Changes to the dates in this calendar as well as Quiz/Lab assignments and their due dates will be announced weekly in the LMS.
