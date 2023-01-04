@@ -1,10 +1,5 @@
-title: Tentative Pacing Guide
-remote_theme: pages-themes/cayman@v0.2.0 # add remote theme to page
-show_downloads: false
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - 2023-mat-171-sstg1-pacing.md
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
